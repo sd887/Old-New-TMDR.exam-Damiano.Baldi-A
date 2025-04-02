@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 33,
+    "height" : 22
+  }, {
+    "width" : 66,
+    "height" : 44
+  }, {
+    "width" : 131,
+    "height" : 87
+  }, {
+    "width" : 261,
+    "height" : 174
+  }, {
+    "width" : 521,
+    "height" : 348
+  }, {
+    "width" : 1042,
+    "height" : 695
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1042,
+  "@id" : "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 695
+}

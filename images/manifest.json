@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "GuggenheimBilbao"
+                ]
+            },
+            "height": 695,
+            "width": 1042,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 33,
+                                                "height": 22
+                                            },
+                                            {
+                                                "width": 66,
+                                                "height": 44
+                                            },
+                                            {
+                                                "width": 131,
+                                                "height": 87
+                                            },
+                                            {
+                                                "width": 261,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 521,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 1042,
+                                                "height": 695
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1042,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 695,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GuggenheimBilbao/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SydneyOperaHouse/canvas/",
             "type": "Canvas",
             "label": {
