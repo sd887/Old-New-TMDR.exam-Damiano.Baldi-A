@@ -1,0 +1,13 @@
+{
+  "id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-A/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in sd887/Old-New-TMDR.exam-Damiano.Baldi-A project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-A/manifests/SydneyOperaHouse.json",
+    "label" : "Sydney Opera House"
+  } ]
+}
