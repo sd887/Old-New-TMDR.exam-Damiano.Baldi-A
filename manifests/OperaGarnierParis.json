@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-A/manifests/OperaGarnierParis.json",
+  "@type" : "sc:Manifest",
+  "label" : "Opéra Garnier",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Opéra Garnier is Paris' main opera house. Designed by Charles Garnier, and built from 1861 to 1875, it is one the world's most famous opera houses.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://345ba3c9-c368-4647-9699-38c88481e85d",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f835262d-0c49-4bad-8225-052a184c6fd4",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 853,
+      "width" : 1279,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d88f7601-bbc1-4f05-9925-a6550ef5da0a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/OperaGarnier/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/OperaGarnier",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 853,
+          "width" : 1279
+        },
+        "on" : "http://f835262d-0c49-4bad-8225-052a184c6fd4"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
