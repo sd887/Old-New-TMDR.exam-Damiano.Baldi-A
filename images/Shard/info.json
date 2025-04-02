@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 27,
+    "height" : 41
+  }, {
+    "width" : 54,
+    "height" : 81
+  }, {
+    "width" : 108,
+    "height" : 162
+  }, {
+    "width" : 216,
+    "height" : 324
+  }, {
+    "width" : 432,
+    "height" : 648
+  }, {
+    "width" : 864,
+    "height" : 1296
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 864,
+  "@id" : "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1296
+}

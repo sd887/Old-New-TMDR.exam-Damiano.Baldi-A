@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Shard"
+                ]
+            },
+            "height": 1296,
+            "width": 864,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 27,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 54,
+                                                "height": 81
+                                            },
+                                            {
+                                                "width": 108,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 324
+                                            },
+                                            {
+                                                "width": 432,
+                                                "height": 648
+                                            },
+                                            {
+                                                "width": 864,
+                                                "height": 1296
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 864,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1296,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/Shard/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/GrandCentralTerminal/canvas/",
             "type": "Canvas",
             "label": {
@@ -408,6 +489,249 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SydneyOperaHouse/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/FlatironBuilding/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "FlatironBuilding"
+                ]
+            },
+            "height": 813,
+            "width": 610,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/FlatironBuilding/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/FlatironBuilding/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/FlatironBuilding/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 39,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 77,
+                                                "height": 102
+                                            },
+                                            {
+                                                "width": 153,
+                                                "height": 204
+                                            },
+                                            {
+                                                "width": 305,
+                                                "height": 407
+                                            },
+                                            {
+                                                "width": 610,
+                                                "height": 813
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 610,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/FlatironBuilding",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 813,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/FlatironBuilding/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SienaDuomo/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "SienaDuomo"
+                ]
+            },
+            "height": 458,
+            "width": 688,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SienaDuomo/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SienaDuomo/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SienaDuomo/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 22,
+                                                "height": 15
+                                            },
+                                            {
+                                                "width": 43,
+                                                "height": 29
+                                            },
+                                            {
+                                                "width": 86,
+                                                "height": 58
+                                            },
+                                            {
+                                                "width": 172,
+                                                "height": 115
+                                            },
+                                            {
+                                                "width": 344,
+                                                "height": 229
+                                            },
+                                            {
+                                                "width": 688,
+                                                "height": 458
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 688,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SienaDuomo",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 458,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SienaDuomo/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "BottaChapel"
+                ]
+            },
+            "height": 1425,
+            "width": 2137,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 67,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 134,
+                                                "height": 90
+                                            },
+                                            {
+                                                "width": 268,
+                                                "height": 179
+                                            },
+                                            {
+                                                "width": 535,
+                                                "height": 357
+                                            },
+                                            {
+                                                "width": 1069,
+                                                "height": 713
+                                            },
+                                            {
+                                                "width": 2137,
+                                                "height": 1425
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2137,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1425,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel/canvas/"
                         }
                     ]
                 }

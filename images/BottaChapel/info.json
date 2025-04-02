@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 67,
+    "height" : 45
+  }, {
+    "width" : 134,
+    "height" : 90
+  }, {
+    "width" : 268,
+    "height" : 179
+  }, {
+    "width" : 535,
+    "height" : 357
+  }, {
+    "width" : 1069,
+    "height" : 713
+  }, {
+    "width" : 2137,
+    "height" : 1425
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2137,
+  "@id" : "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/BottaChapel",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1425
+}
