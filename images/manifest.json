@@ -252,6 +252,87 @@
             ]
         },
         {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/NapoliAfragola/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "NapoliAfragola"
+                ]
+            },
+            "height": 966,
+            "width": 1288,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/NapoliAfragola/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/NapoliAfragola/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/NapoliAfragola/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 81,
+                                                "height": 61
+                                            },
+                                            {
+                                                "width": 161,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 322,
+                                                "height": 242
+                                            },
+                                            {
+                                                "width": 644,
+                                                "height": 483
+                                            },
+                                            {
+                                                "width": 1288,
+                                                "height": 966
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1288,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/NapoliAfragola",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 966,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/NapoliAfragola/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-A/images/SydneyOperaHouse/canvas/",
             "type": "Canvas",
             "label": {
