@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-A/manifests/OperaGarnierParis.json",
     "label" : "Opéra Garnier"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-A/manifests/Sydney-Opera-House.json",
+    "label" : "Sydney Opera House"
   } ]
 }
